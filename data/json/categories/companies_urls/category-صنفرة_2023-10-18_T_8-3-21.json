@@ -1,0 +1,30 @@
+[
+  {
+    "ID": 1,
+    "companiesUrls": [
+      "//yellowpages.com.eg/ar/profile/المركز-المصرى-للتجارة-العامة/23510",
+      "//yellowpages.com.eg/ar/profile/الاصلى-للصنفرة/267751",
+      "//yellowpages.com.eg/ar/profile/الاصيل-للصنفرة/694330",
+      "//yellowpages.com.eg/ar/profile/التوكل/267401",
+      "//yellowpages.com.eg/ar/profile/الحرية-للصنفرة/419955",
+      "//yellowpages.com.eg/ar/profile/الشركة-العالمية-للصنفرة/679322",
+      "//yellowpages.com.eg/ar/profile/الشركة-المصرية-للصنفرة/20313",
+      "//yellowpages.com.eg/ar/profile/الفتح/267399",
+      "//yellowpages.com.eg/ar/profile/الوصل-للتوريدات-العمومية/429916",
+      "//yellowpages.com.eg/ar/profile/امين-سمير-للتجارة/267444",
+      "//yellowpages.com.eg/ar/profile/ثرى-ام/267655",
+      "//yellowpages.com.eg/ar/profile/ثرى-ام-ايجيبت-للتجارة-المحدودة/12074",
+      "//yellowpages.com.eg/ar/profile/خالد-والوليد/508113",
+      "//yellowpages.com.eg/ar/profile/ديمو/568175",
+      "//yellowpages.com.eg/ar/profile/سلطان-لتصنيع-احجار-الجلخ/61861",
+      "//yellowpages.com.eg/ar/profile/سيد-للصنفرة/267745",
+      "//yellowpages.com.eg/ar/profile/محمد-للصنفرة/267657",
+      "//yellowpages.com.eg/ar/profile/وان-تو-ثرى-للصنفرة/451553"
+    ],
+    "pageId": "2b787227ac95082d5ca3ea76f4cc6a7682e9aafe",
+    "pageUrl": "https://yellowpages.com.eg/ar/category/صنفرة/p1",
+    "categoryName": "صنفرة",
+    "pagesCount": "1",
+    "numPagesToScrape": "1"
+  }
+]

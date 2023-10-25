@@ -1,0 +1,91 @@
+[
+  {
+    "ID": 1,
+    "pageCategories": [
+      {
+        "name": "صنفرة",
+        "href": "https://yellowpages.com.eg/ar/category/صنفرة"
+      },
+      {
+        "name": "تكييف-هواء",
+        "href": "https://yellowpages.com.eg/ar/category/تكييف-هواء"
+      },
+      {
+        "name": "برامج-كمبيوتر",
+        "href": "https://yellowpages.com.eg/ar/category/برامج-كمبيوتر"
+      },
+      {
+        "name": "شبك-تظليل",
+        "href": "https://yellowpages.com.eg/ar/category/شبك-تظليل"
+      },
+      {
+        "name": "ماكينة-قهوة",
+        "href": "https://yellowpages.com.eg/ar/category/ماكينة-قهوة"
+      },
+      {
+        "name": "مطحنة-البن",
+        "href": "https://yellowpages.com.eg/ar/category/مطحنة-البن"
+      },
+      {
+        "name": "مراكز-تعليم-كمبيوتر",
+        "href": "https://yellowpages.com.eg/ar/category/مراكز-تعليم-كمبيوتر"
+      },
+      {
+        "name": "هولوجرام",
+        "href": "https://yellowpages.com.eg/ar/category/هولوجرام"
+      },
+      {
+        "name": "ايبوكسى",
+        "href": "https://yellowpages.com.eg/ar/category/ايبوكسى"
+      },
+      {
+        "name": "مقاولات",
+        "href": "https://yellowpages.com.eg/ar/category/مقاولات"
+      },
+      {
+        "name": "استشاريون",
+        "href": "https://yellowpages.com.eg/ar/category/استشاريون"
+      },
+      {
+        "name": "انظمة-تحكم",
+        "href": "https://yellowpages.com.eg/ar/category/انظمة-تحكم"
+      },
+      {
+        "name": "قاعات-مؤتمرات",
+        "href": "https://yellowpages.com.eg/ar/category/قاعات-مؤتمرات"
+      },
+      {
+        "name": "سيور-نقل",
+        "href": "https://yellowpages.com.eg/ar/category/سيور-نقل"
+      },
+      {
+        "name": "طائرات-شارتر",
+        "href": "https://yellowpages.com.eg/ar/category/طائرات-شارتر"
+      },
+      {
+        "name": "مستحضرات-تجميل",
+        "href": "https://yellowpages.com.eg/ar/category/مستحضرات-تجميل"
+      },
+      {
+        "name": "مراكز-جراحات-تجميل",
+        "href": "https://yellowpages.com.eg/ar/category/مراكز-جراحات-تجميل"
+      },
+      {
+        "name": "البريد-السريع",
+        "href": "https://yellowpages.com.eg/ar/category/البريد-السريع"
+      },
+      {
+        "name": "كريب-ووافل",
+        "href": "https://yellowpages.com.eg/ar/category/كريب-ووافل"
+      },
+      {
+        "name": "رحلات-نيلية",
+        "href": "https://yellowpages.com.eg/ar/category/رحلات-نيلية"
+      }
+    ],
+    "pageId": "02f59478600e9d2c2ec215d8b1332f0b43a0e423",
+    "pageUrl": "https://yellowpages.com.eg/ar/related-categories/p1",
+    "pagesCount": "35",
+    "numPagesToScrape": "35"
+  }
+]

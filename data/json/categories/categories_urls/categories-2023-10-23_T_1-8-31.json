@@ -1,0 +1,1960 @@
+[
+  {
+    "ID": 1,
+    "pageCategories": [
+      {
+        "name": "صنفرة",
+        "href": "https://yellowpages.com.eg/ar/category/صنفرة"
+      },
+      {
+        "name": "تكييف-هواء",
+        "href": "https://yellowpages.com.eg/ar/category/تكييف-هواء"
+      },
+      {
+        "name": "برامج-كمبيوتر",
+        "href": "https://yellowpages.com.eg/ar/category/برامج-كمبيوتر"
+      },
+      {
+        "name": "شبك-تظليل",
+        "href": "https://yellowpages.com.eg/ar/category/شبك-تظليل"
+      },
+      {
+        "name": "ماكينة-قهوة",
+        "href": "https://yellowpages.com.eg/ar/category/ماكينة-قهوة"
+      },
+      {
+        "name": "مطحنة-البن",
+        "href": "https://yellowpages.com.eg/ar/category/مطحنة-البن"
+      },
+      {
+        "name": "مراكز-تعليم-كمبيوتر",
+        "href": "https://yellowpages.com.eg/ar/category/مراكز-تعليم-كمبيوتر"
+      },
+      {
+        "name": "هولوجرام",
+        "href": "https://yellowpages.com.eg/ar/category/هولوجرام"
+      },
+      {
+        "name": "ايبوكسى",
+        "href": "https://yellowpages.com.eg/ar/category/ايبوكسى"
+      },
+      {
+        "name": "مقاولات",
+        "href": "https://yellowpages.com.eg/ar/category/مقاولات"
+      },
+      {
+        "name": "استشاريون",
+        "href": "https://yellowpages.com.eg/ar/category/استشاريون"
+      },
+      {
+        "name": "انظمة-تحكم",
+        "href": "https://yellowpages.com.eg/ar/category/انظمة-تحكم"
+      },
+      {
+        "name": "قاعات-مؤتمرات",
+        "href": "https://yellowpages.com.eg/ar/category/قاعات-مؤتمرات"
+      },
+      {
+        "name": "سيور-نقل",
+        "href": "https://yellowpages.com.eg/ar/category/سيور-نقل"
+      },
+      {
+        "name": "طائرات-شارتر",
+        "href": "https://yellowpages.com.eg/ar/category/طائرات-شارتر"
+      },
+      {
+        "name": "مستحضرات-تجميل",
+        "href": "https://yellowpages.com.eg/ar/category/مستحضرات-تجميل"
+      },
+      {
+        "name": "مراكز-جراحات-تجميل",
+        "href": "https://yellowpages.com.eg/ar/category/مراكز-جراحات-تجميل"
+      },
+      {
+        "name": "البريد-السريع",
+        "href": "https://yellowpages.com.eg/ar/category/البريد-السريع"
+      },
+      {
+        "name": "كريب-ووافل",
+        "href": "https://yellowpages.com.eg/ar/category/كريب-ووافل"
+      },
+      {
+        "name": "رحلات-نيلية",
+        "href": "https://yellowpages.com.eg/ar/category/رحلات-نيلية"
+      }
+    ],
+    "pageId": "0e92a333f81cdcafcd4e827f75be356bf7f2473d",
+    "pageUrl": "https://yellowpages.com.eg/ar/related-categories/p1",
+    "pagesCount": "35",
+    "numPagesToScrape": "35"
+  },
+  {
+    "ID": 2,
+    "pageCategories": [
+      {
+        "name": "مراكز-ثقافية",
+        "href": "https://yellowpages.com.eg/ar/category/مراكز-ثقافية"
+      },
+      {
+        "name": "تجار-ومصنعون-طائرات",
+        "href": "https://yellowpages.com.eg/ar/category/تجار-ومصنعون-طائرات"
+      },
+      {
+        "name": "تخليص-جمركى",
+        "href": "https://yellowpages.com.eg/ar/category/تخليص-جمركى"
+      },
+      {
+        "name": "مصنعون-منتجات-البان",
+        "href": "https://yellowpages.com.eg/ar/category/مصنعون-منتجات-البان"
+      },
+      {
+        "name": "مستلزمات-واجهزة-طب-اسنان",
+        "href": "https://yellowpages.com.eg/ar/category/مستلزمات-واجهزة-طب-اسنان"
+      },
+      {
+        "name": "دكتور-اسنان",
+        "href": "https://yellowpages.com.eg/ar/category/دكتور-اسنان"
+      },
+      {
+        "name": "طب-اسنان-اخصائيون-صنع-وتركيب-الاسنان-ومعامل-اسنان",
+        "href": "https://yellowpages.com.eg/ar/category/طب-اسنان-اخصائيون-صنع-وتركيب-الاسنان-ومعامل-اسنان"
+      },
+      {
+        "name": "خطوط-جوية",
+        "href": "https://yellowpages.com.eg/ar/category/خطوط-جوية"
+      },
+      {
+        "name": "منظفات-وصابون",
+        "href": "https://yellowpages.com.eg/ar/category/منظفات-وصابون"
+      },
+      {
+        "name": "مراكز-علاج-السكر",
+        "href": "https://yellowpages.com.eg/ar/category/مراكز-علاج-السكر"
+      },
+      {
+        "name": "مسبوكات",
+        "href": "https://yellowpages.com.eg/ar/category/مسبوكات"
+      },
+      {
+        "name": "محركات-ديزل",
+        "href": "https://yellowpages.com.eg/ar/category/محركات-ديزل"
+      },
+      {
+        "name": "كروت-تخفيض",
+        "href": "https://yellowpages.com.eg/ar/category/كروت-تخفيض"
+      },
+      {
+        "name": "مطهرات",
+        "href": "https://yellowpages.com.eg/ar/category/مطهرات"
+      },
+      {
+        "name": "المطارات",
+        "href": "https://yellowpages.com.eg/ar/category/المطارات"
+      },
+      {
+        "name": "مركز-غطس-وسفاري-ورحلات-بحرية",
+        "href": "https://yellowpages.com.eg/ar/category/مركز-غطس-وسفاري-ورحلات-بحرية"
+      },
+      {
+        "name": "دكتور",
+        "href": "https://yellowpages.com.eg/ar/category/دكتور"
+      },
+      {
+        "name": "ادارة-وثائق",
+        "href": "https://yellowpages.com.eg/ar/category/ادارة-وثائق"
+      },
+      {
+        "name": "اكسسوارات-ابواب-وشبابيك",
+        "href": "https://yellowpages.com.eg/ar/category/اكسسوارات-ابواب-وشبابيك"
+      },
+      {
+        "name": "ابواب-وبوابات-جراجات-واسياج",
+        "href": "https://yellowpages.com.eg/ar/category/ابواب-وبوابات-جراجات-واسياج"
+      }
+    ],
+    "pageId": "302ee9332007719fd0b1d960527d98f776436062",
+    "pageUrl": "https://yellowpages.com.eg/ar/related-categories/p2",
+    "pagesCount": "35",
+    "numPagesToScrape": "35"
+  },
+  {
+    "ID": 3,
+    "pageCategories": [
+      {
+        "name": "حفر",
+        "href": "https://yellowpages.com.eg/ar/category/حفر"
+      },
+      {
+        "name": "معدات-مطارات-وخدمات",
+        "href": "https://yellowpages.com.eg/ar/category/معدات-مطارات-وخدمات"
+      },
+      {
+        "name": "التنظيف-الجاف",
+        "href": "https://yellowpages.com.eg/ar/category/التنظيف-الجاف"
+      },
+      {
+        "name": "الأسواق-الحره",
+        "href": "https://yellowpages.com.eg/ar/category/الأسواق-الحره"
+      },
+      {
+        "name": "صباغة",
+        "href": "https://yellowpages.com.eg/ar/category/صباغة"
+      },
+      {
+        "name": "وزارة-التربية-والتعليم",
+        "href": "https://yellowpages.com.eg/ar/category/وزارة-التربية-والتعليم"
+      },
+      {
+        "name": "مديريات-التربية-والتعليم",
+        "href": "https://yellowpages.com.eg/ar/category/مديريات-التربية-والتعليم"
+      },
+      {
+        "name": "مطاعم-مصرية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-مصرية"
+      },
+      {
+        "name": "وسائل-تعليمية",
+        "href": "https://yellowpages.com.eg/ar/category/وسائل-تعليمية"
+      },
+      {
+        "name": "اجهزة-كهرباء-والكترونيات",
+        "href": "https://yellowpages.com.eg/ar/category/اجهزة-كهرباء-والكترونيات"
+      },
+      {
+        "name": "مقاول-كهرباء-وكهربائيون",
+        "href": "https://yellowpages.com.eg/ar/category/مقاول-كهرباء-وكهربائيون"
+      },
+      {
+        "name": "مواتير-كهربائية",
+        "href": "https://yellowpages.com.eg/ar/category/مواتير-كهربائية"
+      },
+      {
+        "name": "كهرباء-قوى-حماية-ووحدات-تحكم-وعوازل",
+        "href": "https://yellowpages.com.eg/ar/category/كهرباء-قوى-حماية-ووحدات-تحكم-وعوازل"
+      },
+      {
+        "name": "كهرباء-ميكانيكية",
+        "href": "https://yellowpages.com.eg/ar/category/كهرباء-ميكانيكية"
+      },
+      {
+        "name": "طلاء-كهربى",
+        "href": "https://yellowpages.com.eg/ar/category/طلاء-كهربى"
+      },
+      {
+        "name": "كهرباء-الكتروستاتيكية",
+        "href": "https://yellowpages.com.eg/ar/category/كهرباء-الكتروستاتيكية"
+      },
+      {
+        "name": "مصاعد",
+        "href": "https://yellowpages.com.eg/ar/category/مصاعد"
+      },
+      {
+        "name": "سفارة-وقنصلية",
+        "href": "https://yellowpages.com.eg/ar/category/سفارة-وقنصلية"
+      },
+      {
+        "name": "تطريز",
+        "href": "https://yellowpages.com.eg/ar/category/تطريز"
+      },
+      {
+        "name": "ارقام-طوارئ",
+        "href": "https://yellowpages.com.eg/ar/category/ارقام-طوارئ"
+      }
+    ],
+    "pageId": "c9a8e5b3b5cf96aece13fb9885734c327f24a024",
+    "pageUrl": "https://yellowpages.com.eg/ar/related-categories/p3",
+    "pagesCount": "35",
+    "numPagesToScrape": "35"
+  },
+  {
+    "ID": 4,
+    "pageCategories": [
+      {
+        "name": "مهندسين",
+        "href": "https://yellowpages.com.eg/ar/category/مهندسين"
+      },
+      {
+        "name": "اصلاح-محركات-واعادة-بناء",
+        "href": "https://yellowpages.com.eg/ar/category/اصلاح-محركات-واعادة-بناء"
+      },
+      {
+        "name": "مطاعم-انجليزية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-انجليزية"
+      },
+      {
+        "name": "حماية-البيئة",
+        "href": "https://yellowpages.com.eg/ar/category/حماية-البيئة"
+      },
+      {
+        "name": "سلالم-متحركة",
+        "href": "https://yellowpages.com.eg/ar/category/سلالم-متحركة"
+      },
+      {
+        "name": "تنظيم-معارض-ومؤتمرات-وعروض",
+        "href": "https://yellowpages.com.eg/ar/category/تنظيم-معارض-ومؤتمرات-وعروض"
+      },
+      {
+        "name": "محاسب-قانوني",
+        "href": "https://yellowpages.com.eg/ar/category/محاسب-قانوني"
+      },
+      {
+        "name": "ادارة-منشآت",
+        "href": "https://yellowpages.com.eg/ar/category/ادارة-منشآت"
+      },
+      {
+        "name": "معدات-مصانع-وتجهيزات",
+        "href": "https://yellowpages.com.eg/ar/category/معدات-مصانع-وتجهيزات"
+      },
+      {
+        "name": "مراوح-تهوية",
+        "href": "https://yellowpages.com.eg/ar/category/مراوح-تهوية"
+      },
+      {
+        "name": "وجبات-سريعة",
+        "href": "https://yellowpages.com.eg/ar/category/وجبات-سريعة"
+      },
+      {
+        "name": "الومنيوم",
+        "href": "https://yellowpages.com.eg/ar/category/الومنيوم"
+      },
+      {
+        "name": "اسمدة",
+        "href": "https://yellowpages.com.eg/ar/category/اسمدة"
+      },
+      {
+        "name": "فيبرجلاس",
+        "href": "https://yellowpages.com.eg/ar/category/فيبرجلاس"
+      },
+      {
+        "name": "افلام-وفيديو-وخدمات-تليفزيونية-وترجمة",
+        "href": "https://yellowpages.com.eg/ar/category/افلام-وفيديو-وخدمات-تليفزيونية-وترجمة"
+      },
+      {
+        "name": "فلاتر-الزيت-والغاز-والهواء",
+        "href": "https://yellowpages.com.eg/ar/category/فلاتر-الزيت-والغاز-والهواء"
+      },
+      {
+        "name": "شركات-التخطيط-والتمويل",
+        "href": "https://yellowpages.com.eg/ar/category/شركات-التخطيط-والتمويل"
+      },
+      {
+        "name": "مكافحة-حريق",
+        "href": "https://yellowpages.com.eg/ar/category/مكافحة-حريق"
+      },
+      {
+        "name": "مطافى",
+        "href": "https://yellowpages.com.eg/ar/category/مطافى"
+      },
+      {
+        "name": "اسماك-زينة-واحواض-ومواد",
+        "href": "https://yellowpages.com.eg/ar/category/اسماك-زينة-واحواض-ومواد"
+      }
+    ],
+    "pageId": "9249790e777e8802702c79136733238232e0e9b5",
+    "pageUrl": "https://yellowpages.com.eg/ar/related-categories/p4",
+    "pagesCount": "35",
+    "numPagesToScrape": "35"
+  },
+  {
+    "ID": 5,
+    "pageCategories": [
+      {
+        "name": "محلات-اسماك",
+        "href": "https://yellowpages.com.eg/ar/category/محلات-اسماك"
+      },
+      {
+        "name": "صيد-اسماك",
+        "href": "https://yellowpages.com.eg/ar/category/صيد-اسماك"
+      },
+      {
+        "name": "جيم",
+        "href": "https://yellowpages.com.eg/ar/category/جيم"
+      },
+      {
+        "name": "اعلام-ورايات",
+        "href": "https://yellowpages.com.eg/ar/category/اعلام-ورايات"
+      },
+      {
+        "name": "الاسعاف",
+        "href": "https://yellowpages.com.eg/ar/category/الاسعاف"
+      },
+      {
+        "name": "مكسبات-طعم-ورائحة-ولون-وزيوت-عطرية",
+        "href": "https://yellowpages.com.eg/ar/category/مكسبات-طعم-ورائحة-ولون-وزيوت-عطرية"
+      },
+      {
+        "name": "مطاعم-على-النيل",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-على-النيل"
+      },
+      {
+        "name": "ارضيات",
+        "href": "https://yellowpages.com.eg/ar/category/ارضيات"
+      },
+      {
+        "name": "زهور-طبيعية-ونباتات",
+        "href": "https://yellowpages.com.eg/ar/category/زهور-طبيعية-ونباتات"
+      },
+      {
+        "name": "فوم",
+        "href": "https://yellowpages.com.eg/ar/category/فوم"
+      },
+      {
+        "name": "مطاعم-امريكية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-امريكية"
+      },
+      {
+        "name": "اغذية-ومعالجة-ومعدات",
+        "href": "https://yellowpages.com.eg/ar/category/اغذية-ومعالجة-ومعدات"
+      },
+      {
+        "name": "اوناش-ورافعات",
+        "href": "https://yellowpages.com.eg/ar/category/اوناش-ورافعات"
+      },
+      {
+        "name": "فول-وطعمية",
+        "href": "https://yellowpages.com.eg/ar/category/فول-وطعمية"
+      },
+      {
+        "name": "اعلاف-وطعام-حيوانات",
+        "href": "https://yellowpages.com.eg/ar/category/اعلاف-وطعام-حيوانات"
+      },
+      {
+        "name": "النافورات",
+        "href": "https://yellowpages.com.eg/ar/category/النافورات"
+      },
+      {
+        "name": "فرنشايز",
+        "href": "https://yellowpages.com.eg/ar/category/فرنشايز"
+      },
+      {
+        "name": "مطاعم-فرنسية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-فرنسية"
+      },
+      {
+        "name": "فطير",
+        "href": "https://yellowpages.com.eg/ar/category/فطير"
+      },
+      {
+        "name": "فاكهة-وخضروات",
+        "href": "https://yellowpages.com.eg/ar/category/فاكهة-وخضروات"
+      }
+    ],
+    "pageId": "82ced9a45decd2dc512aa2ba7e4f24621ca61de7",
+    "pageUrl": "https://yellowpages.com.eg/ar/related-categories/p5",
+    "pagesCount": "35",
+    "numPagesToScrape": "35"
+  },
+  {
+    "ID": 6,
+    "pageCategories": [
+      {
+        "name": "خدمات-جنازات",
+        "href": "https://yellowpages.com.eg/ar/category/خدمات-جنازات"
+      },
+      {
+        "name": "اثاث-منزلي-ومكتبي-واثاث-حدائق",
+        "href": "https://yellowpages.com.eg/ar/category/اثاث-منزلي-ومكتبي-واثاث-حدائق"
+      },
+      {
+        "name": "العاب-موبايلات",
+        "href": "https://yellowpages.com.eg/ar/category/العاب-موبايلات"
+      },
+      {
+        "name": "بروبان-وغازات",
+        "href": "https://yellowpages.com.eg/ar/category/بروبان-وغازات"
+      },
+      {
+        "name": "محطات-بنزين",
+        "href": "https://yellowpages.com.eg/ar/category/محطات-بنزين"
+      },
+      {
+        "name": "جوانات",
+        "href": "https://yellowpages.com.eg/ar/category/جوانات"
+      },
+      {
+        "name": "تروس",
+        "href": "https://yellowpages.com.eg/ar/category/تروس"
+      },
+      {
+        "name": "هوائيات",
+        "href": "https://yellowpages.com.eg/ar/category/هوائيات"
+      },
+      {
+        "name": "مولدات-كهرباء",
+        "href": "https://yellowpages.com.eg/ar/category/مولدات-كهرباء"
+      },
+      {
+        "name": "مطاعم-المانية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-المانية"
+      },
+      {
+        "name": "محلات-هدايا",
+        "href": "https://yellowpages.com.eg/ar/category/محلات-هدايا"
+      },
+      {
+        "name": "زجاج-سيارات",
+        "href": "https://yellowpages.com.eg/ar/category/زجاج-سيارات"
+      },
+      {
+        "name": "زجاج-مطلى-وتلوين-خفيف",
+        "href": "https://yellowpages.com.eg/ar/category/زجاج-مطلى-وتلوين-خفيف"
+      },
+      {
+        "name": "الياف-زجاجية-و-زجاج-مقوى-بالخرسانة",
+        "href": "https://yellowpages.com.eg/ar/category/الياف-زجاجية-و-زجاج-مقوى-بالخرسانة"
+      },
+      {
+        "name": "زجاج-بانواعه",
+        "href": "https://yellowpages.com.eg/ar/category/زجاج-بانواعه"
+      },
+      {
+        "name": "زجاج-مزخرف-وملون-صناعيا-ومقوى-بالرصاص",
+        "href": "https://yellowpages.com.eg/ar/category/زجاج-مزخرف-وملون-صناعيا-ومقوى-بالرصاص"
+      },
+      {
+        "name": "عربات-سباق",
+        "href": "https://yellowpages.com.eg/ar/category/عربات-سباق"
+      },
+      {
+        "name": "انتيكات",
+        "href": "https://yellowpages.com.eg/ar/category/انتيكات"
+      },
+      {
+        "name": "ملاعب-جولف",
+        "href": "https://yellowpages.com.eg/ar/category/ملاعب-جولف"
+      },
+      {
+        "name": "معدات-ملاعب-جولف",
+        "href": "https://yellowpages.com.eg/ar/category/معدات-ملاعب-جولف"
+      }
+    ],
+    "pageId": "c06df94fdc61d265798b63483015be60c5e4bcab",
+    "pageUrl": "https://yellowpages.com.eg/ar/related-categories/p6",
+    "pagesCount": "35",
+    "numPagesToScrape": "35"
+  },
+  {
+    "ID": 7,
+    "pageCategories": [
+      {
+        "name": "مأكولات-راقية",
+        "href": "https://yellowpages.com.eg/ar/category/مأكولات-راقية"
+      },
+      {
+        "name": "هيئات-حكومية",
+        "href": "https://yellowpages.com.eg/ar/category/هيئات-حكومية"
+      },
+      {
+        "name": "جرافيك-ديزاين",
+        "href": "https://yellowpages.com.eg/ar/category/جرافيك-ديزاين"
+      },
+      {
+        "name": "مطاعم-يونانية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-يونانية"
+      },
+      {
+        "name": "شركات-امن-وحراسة",
+        "href": "https://yellowpages.com.eg/ar/category/شركات-امن-وحراسة"
+      },
+      {
+        "name": "مطاعم-خليجية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-خليجية"
+      },
+      {
+        "name": "حلاق-رجالي",
+        "href": "https://yellowpages.com.eg/ar/category/حلاق-رجالي"
+      },
+      {
+        "name": "حدايد",
+        "href": "https://yellowpages.com.eg/ar/category/حدايد"
+      },
+      {
+        "name": "مديريات-الشئون-الصحية",
+        "href": "https://yellowpages.com.eg/ar/category/مديريات-الشئون-الصحية"
+      },
+      {
+        "name": "مكاتب-الصحة",
+        "href": "https://yellowpages.com.eg/ar/category/مكاتب-الصحة"
+      },
+      {
+        "name": "وزارة-الصحة-_-الادارة-المركزية-للمعامل",
+        "href": "https://yellowpages.com.eg/ar/category/وزارة-الصحة-_-الادارة-المركزية-للمعامل"
+      },
+      {
+        "name": "اجهزة-منزلية",
+        "href": "https://yellowpages.com.eg/ar/category/اجهزة-منزلية"
+      },
+      {
+        "name": "معدات-ثقيلة-وقطع-غيار",
+        "href": "https://yellowpages.com.eg/ar/category/معدات-ثقيلة-وقطع-غيار"
+      },
+      {
+        "name": "اعشاب-طبية",
+        "href": "https://yellowpages.com.eg/ar/category/اعشاب-طبية"
+      },
+      {
+        "name": "شركات-قابضة",
+        "href": "https://yellowpages.com.eg/ar/category/شركات-قابضة"
+      },
+      {
+        "name": "اكل-بيتي",
+        "href": "https://yellowpages.com.eg/ar/category/اكل-بيتي"
+      },
+      {
+        "name": "اسطبلات-ركوب-خيل-ولوازم-الخيول",
+        "href": "https://yellowpages.com.eg/ar/category/اسطبلات-ركوب-خيل-ولوازم-الخيول"
+      },
+      {
+        "name": "أجهزة-طبية",
+        "href": "https://yellowpages.com.eg/ar/category/أجهزة-طبية"
+      },
+      {
+        "name": "مستشفيات-ومراكز-طبية",
+        "href": "https://yellowpages.com.eg/ar/category/مستشفيات-ومراكز-طبية"
+      },
+      {
+        "name": "مستشفيات-_-التكليف-الحكومى",
+        "href": "https://yellowpages.com.eg/ar/category/مستشفيات-_-التكليف-الحكومى"
+      }
+    ],
+    "pageId": "523d936b94f5903fc473871b952ad82a7e696e22",
+    "pageUrl": "https://yellowpages.com.eg/ar/related-categories/p7",
+    "pagesCount": "35",
+    "numPagesToScrape": "35"
+  },
+  {
+    "ID": 8,
+    "pageCategories": [
+      {
+        "name": "فنادق-ومنتجعات",
+        "href": "https://yellowpages.com.eg/ar/category/فنادق-ومنتجعات"
+      },
+      {
+        "name": "معدات-مطاعم-وفنادق",
+        "href": "https://yellowpages.com.eg/ar/category/معدات-مطاعم-وفنادق"
+      },
+      {
+        "name": "مهندسين-معماريين",
+        "href": "https://yellowpages.com.eg/ar/category/مهندسين-معماريين"
+      },
+      {
+        "name": "شركات-ادارة-فنادق-ومطاعم",
+        "href": "https://yellowpages.com.eg/ar/category/شركات-ادارة-فنادق-ومطاعم"
+      },
+      {
+        "name": "منتجات-العناية-بالمنزل",
+        "href": "https://yellowpages.com.eg/ar/category/منتجات-العناية-بالمنزل"
+      },
+      {
+        "name": "مكاتب-تخديم",
+        "href": "https://yellowpages.com.eg/ar/category/مكاتب-تخديم"
+      },
+      {
+        "name": "منتجات-ادوات-منزلية",
+        "href": "https://yellowpages.com.eg/ar/category/منتجات-ادوات-منزلية"
+      },
+      {
+        "name": "شركات-هيدروليك",
+        "href": "https://yellowpages.com.eg/ar/category/شركات-هيدروليك"
+      },
+      {
+        "name": "ثلج-ومعدات-ثلج",
+        "href": "https://yellowpages.com.eg/ar/category/ثلج-ومعدات-ثلج"
+      },
+      {
+        "name": "ايس-كريم-والبان",
+        "href": "https://yellowpages.com.eg/ar/category/ايس-كريم-والبان"
+      },
+      {
+        "name": "مكاتب-هجرة",
+        "href": "https://yellowpages.com.eg/ar/category/مكاتب-هجرة"
+      },
+      {
+        "name": "استيراد-وتصدير",
+        "href": "https://yellowpages.com.eg/ar/category/استيراد-وتصدير"
+      },
+      {
+        "name": "مطعم-هندي",
+        "href": "https://yellowpages.com.eg/ar/category/مطعم-هندي"
+      },
+      {
+        "name": "استشارات-صناعية",
+        "href": "https://yellowpages.com.eg/ar/category/استشارات-صناعية"
+      },
+      {
+        "name": "عزل",
+        "href": "https://yellowpages.com.eg/ar/category/عزل"
+      },
+      {
+        "name": "تأمين",
+        "href": "https://yellowpages.com.eg/ar/category/تأمين"
+      },
+      {
+        "name": "تصميم-داخلي",
+        "href": "https://yellowpages.com.eg/ar/category/تصميم-داخلي"
+      },
+      {
+        "name": "مطاعم-عالمية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-عالمية"
+      },
+      {
+        "name": "انترنت-كافية",
+        "href": "https://yellowpages.com.eg/ar/category/انترنت-كافية"
+      },
+      {
+        "name": "اسلحة-ومسدسات-وذخيرة",
+        "href": "https://yellowpages.com.eg/ar/category/اسلحة-ومسدسات-وذخيرة"
+      }
+    ],
+    "pageId": "346c6d9c43e49bce621e9e2e50b5d7e2bd7e9c8a",
+    "pageUrl": "https://yellowpages.com.eg/ar/related-categories/p8",
+    "pagesCount": "35",
+    "numPagesToScrape": "35"
+  },
+  {
+    "ID": 9,
+    "pageCategories": [
+      {
+        "name": "تصميم-مواقع-الكترونية",
+        "href": "https://yellowpages.com.eg/ar/category/تصميم-مواقع-الكترونية"
+      },
+      {
+        "name": "تسويق-الكتروني",
+        "href": "https://yellowpages.com.eg/ar/category/تسويق-الكتروني"
+      },
+      {
+        "name": "شركات-استثمار",
+        "href": "https://yellowpages.com.eg/ar/category/شركات-استثمار"
+      },
+      {
+        "name": "مطاعم-ايرانية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-ايرانية"
+      },
+      {
+        "name": "جودة",
+        "href": "https://yellowpages.com.eg/ar/category/جودة"
+      },
+      {
+        "name": "مطاعم-ايطالية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-ايطالية"
+      },
+      {
+        "name": "جاكوزي-وحمامات-بخار",
+        "href": "https://yellowpages.com.eg/ar/category/جاكوزي-وحمامات-بخار"
+      },
+      {
+        "name": "مطاعم-يابانية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-يابانية"
+      },
+      {
+        "name": "جاليري",
+        "href": "https://yellowpages.com.eg/ar/category/جاليري"
+      },
+      {
+        "name": "جواهرجية",
+        "href": "https://yellowpages.com.eg/ar/category/جواهرجية"
+      },
+      {
+        "name": "محلات-عصائر",
+        "href": "https://yellowpages.com.eg/ar/category/محلات-عصائر"
+      },
+      {
+        "name": "مزارع-كلاب",
+        "href": "https://yellowpages.com.eg/ar/category/مزارع-كلاب"
+      },
+      {
+        "name": "محل-ملابس-اطفال",
+        "href": "https://yellowpages.com.eg/ar/category/محل-ملابس-اطفال"
+      },
+      {
+        "name": "مطابخ",
+        "href": "https://yellowpages.com.eg/ar/category/مطابخ"
+      },
+      {
+        "name": "مطاعم-كورية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-كورية"
+      },
+      {
+        "name": "كشري",
+        "href": "https://yellowpages.com.eg/ar/category/كشري"
+      },
+      {
+        "name": "علامات-وستيكرز",
+        "href": "https://yellowpages.com.eg/ar/category/علامات-وستيكرز"
+      },
+      {
+        "name": "مدارس-فن",
+        "href": "https://yellowpages.com.eg/ar/category/مدارس-فن"
+      },
+      {
+        "name": "معمل-تحاليل-طبية",
+        "href": "https://yellowpages.com.eg/ar/category/معمل-تحاليل-طبية"
+      },
+      {
+        "name": "تبطين",
+        "href": "https://yellowpages.com.eg/ar/category/تبطين"
+      }
+    ],
+    "pageId": "562d11d788ca3976a53a8747411113b691b56aa3",
+    "pageUrl": "https://yellowpages.com.eg/ar/related-categories/p9",
+    "pagesCount": "35",
+    "numPagesToScrape": "35"
+  },
+  {
+    "ID": 10,
+    "pageCategories": [
+      {
+        "name": "تنسيق-حدائق-ومعدات",
+        "href": "https://yellowpages.com.eg/ar/category/تنسيق-حدائق-ومعدات"
+      },
+      {
+        "name": "مراكز-تعليم-لغات",
+        "href": "https://yellowpages.com.eg/ar/category/مراكز-تعليم-لغات"
+      },
+      {
+        "name": "خراطة",
+        "href": "https://yellowpages.com.eg/ar/category/خراطة"
+      },
+      {
+        "name": "زهور-صناعية",
+        "href": "https://yellowpages.com.eg/ar/category/زهور-صناعية"
+      },
+      {
+        "name": "محامين",
+        "href": "https://yellowpages.com.eg/ar/category/محامين"
+      },
+      {
+        "name": "تأجير-تمويلى",
+        "href": "https://yellowpages.com.eg/ar/category/تأجير-تمويلى"
+      },
+      {
+        "name": "جلود-ودباغة",
+        "href": "https://yellowpages.com.eg/ar/category/جلود-ودباغة"
+      },
+      {
+        "name": "مطاعم-لبنانية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-لبنانية"
+      },
+      {
+        "name": "مكتبات-عامة",
+        "href": "https://yellowpages.com.eg/ar/category/مكتبات-عامة"
+      },
+      {
+        "name": "لمبات-ونجف-وانظمة-اضاءة",
+        "href": "https://yellowpages.com.eg/ar/category/لمبات-ونجف-وانظمة-اضاءة"
+      },
+      {
+        "name": "اطراف-صناعية",
+        "href": "https://yellowpages.com.eg/ar/category/اطراف-صناعية"
+      },
+      {
+        "name": "ثروة-حيوانية-وانتاج-حيوانى",
+        "href": "https://yellowpages.com.eg/ar/category/ثروة-حيوانية-وانتاج-حيوانى"
+      },
+      {
+        "name": "اقفال",
+        "href": "https://yellowpages.com.eg/ar/category/اقفال"
+      },
+      {
+        "name": "شحم-وزيوت-صناعية",
+        "href": "https://yellowpages.com.eg/ar/category/شحم-وزيوت-صناعية"
+      },
+      {
+        "name": "شنط-سفر",
+        "href": "https://yellowpages.com.eg/ar/category/شنط-سفر"
+      },
+      {
+        "name": "خشب",
+        "href": "https://yellowpages.com.eg/ar/category/خشب"
+      },
+      {
+        "name": "ميكاب-ارتست",
+        "href": "https://yellowpages.com.eg/ar/category/ميكاب-ارتست"
+      },
+      {
+        "name": "مطاعم-ماليزية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-ماليزية"
+      },
+      {
+        "name": "فنون-وحرف-ومستلزمات",
+        "href": "https://yellowpages.com.eg/ar/category/فنون-وحرف-ومستلزمات"
+      },
+      {
+        "name": "مول",
+        "href": "https://yellowpages.com.eg/ar/category/مول"
+      }
+    ],
+    "pageId": "2b9f42de829e5615eccb14f31b78d036331a6367",
+    "pageUrl": "https://yellowpages.com.eg/ar/related-categories/p10",
+    "pagesCount": "35",
+    "numPagesToScrape": "35"
+  },
+  {
+    "ID": 11,
+    "pageCategories": [
+      {
+        "name": "خرائط-ونظم-معلوماتية",
+        "href": "https://yellowpages.com.eg/ar/category/خرائط-ونظم-معلوماتية"
+      },
+      {
+        "name": "رخام-وجرانيت",
+        "href": "https://yellowpages.com.eg/ar/category/رخام-وجرانيت"
+      },
+      {
+        "name": "ماذون-شرعي",
+        "href": "https://yellowpages.com.eg/ar/category/ماذون-شرعي"
+      },
+      {
+        "name": "ملاحة-بحرية-ومراكب",
+        "href": "https://yellowpages.com.eg/ar/category/ملاحة-بحرية-ومراكب"
+      },
+      {
+        "name": "اكريليك",
+        "href": "https://yellowpages.com.eg/ar/category/اكريليك"
+      },
+      {
+        "name": "جمعيات-ومنظمات",
+        "href": "https://yellowpages.com.eg/ar/category/جمعيات-ومنظمات"
+      },
+      {
+        "name": "استشارات-تسويقية",
+        "href": "https://yellowpages.com.eg/ar/category/استشارات-تسويقية"
+      },
+      {
+        "name": "مساج-علاجي",
+        "href": "https://yellowpages.com.eg/ar/category/مساج-علاجي"
+      },
+      {
+        "name": "كبريت-وولاعات",
+        "href": "https://yellowpages.com.eg/ar/category/كبريت-وولاعات"
+      },
+      {
+        "name": "مراتب",
+        "href": "https://yellowpages.com.eg/ar/category/مراتب"
+      },
+      {
+        "name": "اجهزة-قياس-ومعايير",
+        "href": "https://yellowpages.com.eg/ar/category/اجهزة-قياس-ومعايير"
+      },
+      {
+        "name": "لحوم-مصنعة",
+        "href": "https://yellowpages.com.eg/ar/category/لحوم-مصنعة"
+      },
+      {
+        "name": "طب-معدات",
+        "href": "https://yellowpages.com.eg/ar/category/طب-معدات"
+      },
+      {
+        "name": "أجهزة-الصراف-الآلي",
+        "href": "https://yellowpages.com.eg/ar/category/أجهزة-الصراف-الآلي"
+      },
+      {
+        "name": "ماكولات-البحر-المتوسط",
+        "href": "https://yellowpages.com.eg/ar/category/ماكولات-البحر-المتوسط"
+      },
+      {
+        "name": "طلاء-معدني",
+        "href": "https://yellowpages.com.eg/ar/category/طلاء-معدني"
+      },
+      {
+        "name": "منتجات-معادن-وماكينات",
+        "href": "https://yellowpages.com.eg/ar/category/منتجات-معادن-وماكينات"
+      },
+      {
+        "name": "مطاعم-مكسيكية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-مكسيكية"
+      },
+      {
+        "name": "ميكروفيلم",
+        "href": "https://yellowpages.com.eg/ar/category/ميكروفيلم"
+      },
+      {
+        "name": "مطاحن-ومطاحن-دقيق",
+        "href": "https://yellowpages.com.eg/ar/category/مطاحن-ومطاحن-دقيق"
+      }
+    ],
+    "pageId": "df45961afeea4561e429b1546e2b1eb03ddf681b",
+    "pageUrl": "https://yellowpages.com.eg/ar/related-categories/p11",
+    "pagesCount": "35",
+    "numPagesToScrape": "35"
+  },
+  {
+    "ID": 12,
+    "pageCategories": [
+      {
+        "name": "مزادات",
+        "href": "https://yellowpages.com.eg/ar/category/مزادات"
+      },
+      {
+        "name": "شركات-تعدين",
+        "href": "https://yellowpages.com.eg/ar/category/شركات-تعدين"
+      },
+      {
+        "name": "الوزارات",
+        "href": "https://yellowpages.com.eg/ar/category/الوزارات"
+      },
+      {
+        "name": "وزارات-وهيئات-حكومية",
+        "href": "https://yellowpages.com.eg/ar/category/وزارات-وهيئات-حكومية"
+      },
+      {
+        "name": "تليفونات-محمولة-ومشغلو-خطوط",
+        "href": "https://yellowpages.com.eg/ar/category/تليفونات-محمولة-ومشغلو-خطوط"
+      },
+      {
+        "name": "موبايلات-واكسسوارات",
+        "href": "https://yellowpages.com.eg/ar/category/موبايلات-واكسسوارات"
+      },
+      {
+        "name": "متخصصون-عروض-ازياء",
+        "href": "https://yellowpages.com.eg/ar/category/متخصصون-عروض-ازياء"
+      },
+      {
+        "name": "مكاتب-صرافة",
+        "href": "https://yellowpages.com.eg/ar/category/مكاتب-صرافة"
+      },
+      {
+        "name": "تحويل-الاموال",
+        "href": "https://yellowpages.com.eg/ar/category/تحويل-الاموال"
+      },
+      {
+        "name": "مطعم-مغربي",
+        "href": "https://yellowpages.com.eg/ar/category/مطعم-مغربي"
+      },
+      {
+        "name": "مساجد-ودور-تحفيظ",
+        "href": "https://yellowpages.com.eg/ar/category/مساجد-ودور-تحفيظ"
+      },
+      {
+        "name": "موتوسيكلات،-تكاتك-ودراجات-نارية-رباعية-(ايه-تى-فى)",
+        "href": "https://yellowpages.com.eg/ar/category/موتوسيكلات،-تكاتك-ودراجات-نارية-رباعية-(ايه-تى-فى)"
+      },
+      {
+        "name": "معدات-سمعيات-ومرئيات",
+        "href": "https://yellowpages.com.eg/ar/category/معدات-سمعيات-ومرئيات"
+      },
+      {
+        "name": "قوالب-واسطمبات",
+        "href": "https://yellowpages.com.eg/ar/category/قوالب-واسطمبات"
+      },
+      {
+        "name": "خدمات-نقل-ولوجيستيات",
+        "href": "https://yellowpages.com.eg/ar/category/خدمات-نقل-ولوجيستيات"
+      },
+      {
+        "name": "متاحف-واماكن-تاريخية",
+        "href": "https://yellowpages.com.eg/ar/category/متاحف-واماكن-تاريخية"
+      },
+      {
+        "name": "الات-موسيقية-وتعليم-موسيقى",
+        "href": "https://yellowpages.com.eg/ar/category/الات-موسيقية-وتعليم-موسيقى"
+      },
+      {
+        "name": "المجلس-القومى-للشباب-_-مديرية-الشباب-والرياضة",
+        "href": "https://yellowpages.com.eg/ar/category/المجلس-القومى-للشباب-_-مديرية-الشباب-والرياضة"
+      },
+      {
+        "name": "المجلس-القومى-للرياضة-_-مديرية-الشباب-والرياضة",
+        "href": "https://yellowpages.com.eg/ar/category/المجلس-القومى-للرياضة-_-مديرية-الشباب-والرياضة"
+      },
+      {
+        "name": "صحف-ومجلات",
+        "href": "https://yellowpages.com.eg/ar/category/صحف-ومجلات"
+      }
+    ],
+    "pageId": "b2e4fdccaf0659a1a4f9f7507133856f5d2b962b",
+    "pageUrl": "https://yellowpages.com.eg/ar/related-categories/p12",
+    "pagesCount": "35",
+    "numPagesToScrape": "35"
+  },
+  {
+    "ID": 13,
+    "pageCategories": [
+      {
+        "name": "اماكن-ليلية",
+        "href": "https://yellowpages.com.eg/ar/category/اماكن-ليلية"
+      },
+      {
+        "name": "نودلز",
+        "href": "https://yellowpages.com.eg/ar/category/نودلز"
+      },
+      {
+        "name": "مشاتل-وخدمات-تشجير",
+        "href": "https://yellowpages.com.eg/ar/category/مشاتل-وخدمات-تشجير"
+      },
+      {
+        "name": "دار-مسنين-ورعاية-منزلية",
+        "href": "https://yellowpages.com.eg/ar/category/دار-مسنين-ورعاية-منزلية"
+      },
+      {
+        "name": "معدات-مكاتب",
+        "href": "https://yellowpages.com.eg/ar/category/معدات-مكاتب"
+      },
+      {
+        "name": "وي-_-المصرية-للاتصالات",
+        "href": "https://yellowpages.com.eg/ar/category/وي-_-المصرية-للاتصالات"
+      },
+      {
+        "name": "مطاعم-استرالية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-استرالية"
+      },
+      {
+        "name": "بترول",
+        "href": "https://yellowpages.com.eg/ar/category/بترول"
+      },
+      {
+        "name": "زيوت-طعام-وزيوت-طبيعية",
+        "href": "https://yellowpages.com.eg/ar/category/زيوت-طعام-وزيوت-طبيعية"
+      },
+      {
+        "name": "نظارات-وبصريات",
+        "href": "https://yellowpages.com.eg/ar/category/نظارات-وبصريات"
+      },
+      {
+        "name": "بصريات-اخصائيون",
+        "href": "https://yellowpages.com.eg/ar/category/بصريات-اخصائيون"
+      },
+      {
+        "name": "ماكولات-شرقية",
+        "href": "https://yellowpages.com.eg/ar/category/ماكولات-شرقية"
+      },
+      {
+        "name": "انظمة-ومعدات-تحكم-الى",
+        "href": "https://yellowpages.com.eg/ar/category/انظمة-ومعدات-تحكم-الى"
+      },
+      {
+        "name": "تعبئة-وتغليف",
+        "href": "https://yellowpages.com.eg/ar/category/تعبئة-وتغليف"
+      },
+      {
+        "name": "دهان-وطلاء",
+        "href": "https://yellowpages.com.eg/ar/category/دهان-وطلاء"
+      },
+      {
+        "name": "مطاعم-باكستانية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-باكستانية"
+      },
+      {
+        "name": "ورق",
+        "href": "https://yellowpages.com.eg/ar/category/ورق"
+      },
+      {
+        "name": "ورق-بردي",
+        "href": "https://yellowpages.com.eg/ar/category/ورق-بردي"
+      },
+      {
+        "name": "فواصل",
+        "href": "https://yellowpages.com.eg/ar/category/فواصل"
+      },
+      {
+        "name": "منظم-حفلات-الزفاف",
+        "href": "https://yellowpages.com.eg/ar/category/منظم-حفلات-الزفاف"
+      }
+    ],
+    "pageId": "56f16e15a50745c2f7bf298f1badb4d489259c47",
+    "pageUrl": "https://yellowpages.com.eg/ar/related-categories/p13",
+    "pagesCount": "35",
+    "numPagesToScrape": "35"
+  },
+  {
+    "ID": 14,
+    "pageCategories": [
+      {
+        "name": "براءة-اختراع-وعلامات-تجارية-وملكية-فكرية",
+        "href": "https://yellowpages.com.eg/ar/category/براءة-اختراع-وعلامات-تجارية-وملكية-فكرية"
+      },
+      {
+        "name": "عطور",
+        "href": "https://yellowpages.com.eg/ar/category/عطور"
+      },
+      {
+        "name": "ابادة-حشرات-ومبيدات-حشرية",
+        "href": "https://yellowpages.com.eg/ar/category/ابادة-حشرات-ومبيدات-حشرية"
+      },
+      {
+        "name": "محلات-حيوانات-اليفة",
+        "href": "https://yellowpages.com.eg/ar/category/محلات-حيوانات-اليفة"
+      },
+      {
+        "name": "ادوية",
+        "href": "https://yellowpages.com.eg/ar/category/ادوية"
+      },
+      {
+        "name": "صيدليات",
+        "href": "https://yellowpages.com.eg/ar/category/صيدليات"
+      },
+      {
+        "name": "فوسفات",
+        "href": "https://yellowpages.com.eg/ar/category/فوسفات"
+      },
+      {
+        "name": "مصورون",
+        "href": "https://yellowpages.com.eg/ar/category/مصورون"
+      },
+      {
+        "name": "تصوير",
+        "href": "https://yellowpages.com.eg/ar/category/تصوير"
+      },
+      {
+        "name": "براويز-صور",
+        "href": "https://yellowpages.com.eg/ar/category/براويز-صور"
+      },
+      {
+        "name": "مواسير-وانابيب-وخطوط-انابيب",
+        "href": "https://yellowpages.com.eg/ar/category/مواسير-وانابيب-وخطوط-انابيب"
+      },
+      {
+        "name": "بيتزا",
+        "href": "https://yellowpages.com.eg/ar/category/بيتزا"
+      },
+      {
+        "name": "بلاستيك-ومطاط",
+        "href": "https://yellowpages.com.eg/ar/category/بلاستيك-ومطاط"
+      },
+      {
+        "name": "ملاعب-واماكن-ترفيه",
+        "href": "https://yellowpages.com.eg/ar/category/ملاعب-واماكن-ترفيه"
+      },
+      {
+        "name": "لصق-وغراء",
+        "href": "https://yellowpages.com.eg/ar/category/لصق-وغراء"
+      },
+      {
+        "name": "اقسام-الشرطة",
+        "href": "https://yellowpages.com.eg/ar/category/اقسام-الشرطة"
+      },
+      {
+        "name": "احزاب-سياسية",
+        "href": "https://yellowpages.com.eg/ar/category/احزاب-سياسية"
+      },
+      {
+        "name": "موانئ-بحرية",
+        "href": "https://yellowpages.com.eg/ar/category/موانئ-بحرية"
+      },
+      {
+        "name": "مطاعم-برتغالية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-برتغالية"
+      },
+      {
+        "name": "البريد-المصري",
+        "href": "https://yellowpages.com.eg/ar/category/البريد-المصري"
+      }
+    ],
+    "pageId": "518a9dcb12d4f0bb5890dfc3003c2c5df52fcea1",
+    "pageUrl": "https://yellowpages.com.eg/ar/related-categories/p14",
+    "pagesCount": "35",
+    "numPagesToScrape": "35"
+  },
+  {
+    "ID": 15,
+    "pageCategories": [
+      {
+        "name": "مزارع-دواجن",
+        "href": "https://yellowpages.com.eg/ar/category/مزارع-دواجن"
+      },
+      {
+        "name": "طباعة-ومطابع-ومعدات",
+        "href": "https://yellowpages.com.eg/ar/category/طباعة-ومطابع-ومعدات"
+      },
+      {
+        "name": "ادارة-مشروعات",
+        "href": "https://yellowpages.com.eg/ar/category/ادارة-مشروعات"
+      },
+      {
+        "name": "مشويات",
+        "href": "https://yellowpages.com.eg/ar/category/مشويات"
+      },
+      {
+        "name": "طب-نفسى-وعلاج-الادمان",
+        "href": "https://yellowpages.com.eg/ar/category/طب-نفسى-وعلاج-الادمان"
+      },
+      {
+        "name": "مديريات-الضرائب-العقارية",
+        "href": "https://yellowpages.com.eg/ar/category/مديريات-الضرائب-العقارية"
+      },
+      {
+        "name": "ناشرون",
+        "href": "https://yellowpages.com.eg/ar/category/ناشرون"
+      },
+      {
+        "name": "مضخات",
+        "href": "https://yellowpages.com.eg/ar/category/مضخات"
+      },
+      {
+        "name": "محاجر",
+        "href": "https://yellowpages.com.eg/ar/category/محاجر"
+      },
+      {
+        "name": "مركز-اشعة",
+        "href": "https://yellowpages.com.eg/ar/category/مركز-اشعة"
+      },
+      {
+        "name": "محطات-سكك-حديدية",
+        "href": "https://yellowpages.com.eg/ar/category/محطات-سكك-حديدية"
+      },
+      {
+        "name": "امواس-وشفرات",
+        "href": "https://yellowpages.com.eg/ar/category/امواس-وشفرات"
+      },
+      {
+        "name": "عقارات",
+        "href": "https://yellowpages.com.eg/ar/category/عقارات"
+      },
+      {
+        "name": "ستوديوهات-تسجيل",
+        "href": "https://yellowpages.com.eg/ar/category/ستوديوهات-تسجيل"
+      },
+      {
+        "name": "توظيف",
+        "href": "https://yellowpages.com.eg/ar/category/توظيف"
+      },
+      {
+        "name": "حراريات",
+        "href": "https://yellowpages.com.eg/ar/category/حراريات"
+      },
+      {
+        "name": "ثلاجات-ومجمدات-ومخازن-تبريد",
+        "href": "https://yellowpages.com.eg/ar/category/ثلاجات-ومجمدات-ومخازن-تبريد"
+      },
+      {
+        "name": "مجمعات-سكنية",
+        "href": "https://yellowpages.com.eg/ar/category/مجمعات-سكنية"
+      },
+      {
+        "name": "مطاعم",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم"
+      },
+      {
+        "name": "مطاعم-صالات-طعام",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-صالات-طعام"
+      }
+    ],
+    "pageId": "821abd6f9db0a64e44b144e4aadf9c4892467c62",
+    "pageUrl": "https://yellowpages.com.eg/ar/related-categories/p15",
+    "pagesCount": "35",
+    "numPagesToScrape": "35"
+  },
+  {
+    "ID": 16,
+    "pageCategories": [
+      {
+        "name": "مطاعم-توصيل-الطلبات-للمنازل",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-توصيل-الطلبات-للمنازل"
+      },
+      {
+        "name": "مخابز-ومعجنات-وحلوى-محلات",
+        "href": "https://yellowpages.com.eg/ar/category/مخابز-ومعجنات-وحلوى-محلات"
+      },
+      {
+        "name": "مطاعم-روسية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-روسية"
+      },
+      {
+        "name": "سفاري",
+        "href": "https://yellowpages.com.eg/ar/category/سفاري"
+      },
+      {
+        "name": "ملح",
+        "href": "https://yellowpages.com.eg/ar/category/ملح"
+      },
+      {
+        "name": "ادوات-صحية-_-سباكة-معدات-وسباكون",
+        "href": "https://yellowpages.com.eg/ar/category/ادوات-صحية-_-سباكة-معدات-وسباكون"
+      },
+      {
+        "name": "اطباق-دش-ورسيفرات-ومستلزمات",
+        "href": "https://yellowpages.com.eg/ar/category/اطباق-دش-ورسيفرات-ومستلزمات"
+      },
+      {
+        "name": "معدات-مخابز-وحلوانية",
+        "href": "https://yellowpages.com.eg/ar/category/معدات-مخابز-وحلوانية"
+      },
+      {
+        "name": "سقالات-وسلالم",
+        "href": "https://yellowpages.com.eg/ar/category/سقالات-وسلالم"
+      },
+      {
+        "name": "معدات-اتزان-ديناميكى",
+        "href": "https://yellowpages.com.eg/ar/category/معدات-اتزان-ديناميكى"
+      },
+      {
+        "name": "منطاد",
+        "href": "https://yellowpages.com.eg/ar/category/منطاد"
+      },
+      {
+        "name": "موازين-ومعدات-وزن",
+        "href": "https://yellowpages.com.eg/ar/category/موازين-ومعدات-وزن"
+      },
+      {
+        "name": "ايشاربات",
+        "href": "https://yellowpages.com.eg/ar/category/ايشاربات"
+      },
+      {
+        "name": "مدارس-رقص",
+        "href": "https://yellowpages.com.eg/ar/category/مدارس-رقص"
+      },
+      {
+        "name": "مدارس-تعليم-قيادة",
+        "href": "https://yellowpages.com.eg/ar/category/مدارس-تعليم-قيادة"
+      },
+      {
+        "name": "مدارس-حكومية",
+        "href": "https://yellowpages.com.eg/ar/category/مدارس-حكومية"
+      },
+      {
+        "name": "مدارس-دولية",
+        "href": "https://yellowpages.com.eg/ar/category/مدارس-دولية"
+      },
+      {
+        "name": "حضانات-ومراكز-رعاية-اطفال",
+        "href": "https://yellowpages.com.eg/ar/category/حضانات-ومراكز-رعاية-اطفال"
+      },
+      {
+        "name": "مدارس-ومراكز-ذوى-الاحتياجات-الخاصة",
+        "href": "https://yellowpages.com.eg/ar/category/مدارس-ومراكز-ذوى-الاحتياجات-الخاصة"
+      },
+      {
+        "name": "مراكز-تدريب-ومدارس-متخصصة",
+        "href": "https://yellowpages.com.eg/ar/category/مراكز-تدريب-ومدارس-متخصصة"
+      }
+    ],
+    "pageId": "d596e39153d803bbf0158800a982d783ce09d84d",
+    "pageUrl": "https://yellowpages.com.eg/ar/related-categories/p16",
+    "pagesCount": "35",
+    "numPagesToScrape": "35"
+  },
+  {
+    "ID": 17,
+    "pageCategories": [
+      {
+        "name": "اجهزة-علمية,-الات-دقيقة-و-كيماويات-معامل",
+        "href": "https://yellowpages.com.eg/ar/category/اجهزة-علمية,-الات-دقيقة-و-كيماويات-معامل"
+      },
+      {
+        "name": "ابحاث-علمية",
+        "href": "https://yellowpages.com.eg/ar/category/ابحاث-علمية"
+      },
+      {
+        "name": "ماكولات-بحرية",
+        "href": "https://yellowpages.com.eg/ar/category/ماكولات-بحرية"
+      },
+      {
+        "name": "موانع-تسرب",
+        "href": "https://yellowpages.com.eg/ar/category/موانع-تسرب"
+      },
+      {
+        "name": "كاميرات-مراقبة-وانظمة-امنية",
+        "href": "https://yellowpages.com.eg/ar/category/كاميرات-مراقبة-وانظمة-امنية"
+      },
+      {
+        "name": "بنوك",
+        "href": "https://yellowpages.com.eg/ar/category/بنوك"
+      },
+      {
+        "name": "ماكينات-خياطة",
+        "href": "https://yellowpages.com.eg/ar/category/ماكينات-خياطة"
+      },
+      {
+        "name": "ارفف-ومخازن",
+        "href": "https://yellowpages.com.eg/ar/category/ارفف-ومخازن"
+      },
+      {
+        "name": "شحن-جوى-وبحرى-وبرى",
+        "href": "https://yellowpages.com.eg/ar/category/شحن-جوى-وبحرى-وبرى"
+      },
+      {
+        "name": "محلات-احذية-وشنط",
+        "href": "https://yellowpages.com.eg/ar/category/محلات-احذية-وشنط"
+      },
+      {
+        "name": "مراكز-تسوق",
+        "href": "https://yellowpages.com.eg/ar/category/مراكز-تسوق"
+      },
+      {
+        "name": "معدات-بنوك",
+        "href": "https://yellowpages.com.eg/ar/category/معدات-بنوك"
+      },
+      {
+        "name": "سيلك-سكرين",
+        "href": "https://yellowpages.com.eg/ar/category/سيلك-سكرين"
+      },
+      {
+        "name": "فضة-ومصنعون-فضة",
+        "href": "https://yellowpages.com.eg/ar/category/فضة-ومصنعون-فضة"
+      },
+      {
+        "name": "مجازر",
+        "href": "https://yellowpages.com.eg/ar/category/مجازر"
+      },
+      {
+        "name": "كروت-ذكية",
+        "href": "https://yellowpages.com.eg/ar/category/كروت-ذكية"
+      },
+      {
+        "name": "ادارات-الشئون-الاجتماعية",
+        "href": "https://yellowpages.com.eg/ar/category/ادارات-الشئون-الاجتماعية"
+      },
+      {
+        "name": "مكاتب-زواج",
+        "href": "https://yellowpages.com.eg/ar/category/مكاتب-زواج"
+      },
+      {
+        "name": "طاقة-شمسية",
+        "href": "https://yellowpages.com.eg/ar/category/طاقة-شمسية"
+      },
+      {
+        "name": "سبا",
+        "href": "https://yellowpages.com.eg/ar/category/سبا"
+      }
+    ],
+    "pageId": "f52c97b508549bdb12744ee53ddcdb6323d1933e",
+    "pageUrl": "https://yellowpages.com.eg/ar/related-categories/p17",
+    "pagesCount": "35",
+    "numPagesToScrape": "35"
+  },
+  {
+    "ID": 18,
+    "pageCategories": [
+      {
+        "name": "بازارات",
+        "href": "https://yellowpages.com.eg/ar/category/بازارات"
+      },
+      {
+        "name": "توابل-واعشاب",
+        "href": "https://yellowpages.com.eg/ar/category/توابل-واعشاب"
+      },
+      {
+        "name": "اسفنج",
+        "href": "https://yellowpages.com.eg/ar/category/اسفنج"
+      },
+      {
+        "name": "ادوات-واجهزة-رياضية",
+        "href": "https://yellowpages.com.eg/ar/category/ادوات-واجهزة-رياضية"
+      },
+      {
+        "name": "باركود",
+        "href": "https://yellowpages.com.eg/ar/category/باركود"
+      },
+      {
+        "name": "ادوات-مكتبية",
+        "href": "https://yellowpages.com.eg/ar/category/ادوات-مكتبية"
+      },
+      {
+        "name": "حديد-وصلب",
+        "href": "https://yellowpages.com.eg/ar/category/حديد-وصلب"
+      },
+      {
+        "name": "تعقيم-طبى-ومكافحة-عدوى",
+        "href": "https://yellowpages.com.eg/ar/category/تعقيم-طبى-ومكافحة-عدوى"
+      },
+      {
+        "name": "سماسرة-اسهم-وسندات",
+        "href": "https://yellowpages.com.eg/ar/category/سماسرة-اسهم-وسندات"
+      },
+      {
+        "name": "تجهيز-محلات",
+        "href": "https://yellowpages.com.eg/ar/category/تجهيز-محلات"
+      },
+      {
+        "name": "سكر",
+        "href": "https://yellowpages.com.eg/ar/category/سكر"
+      },
+      {
+        "name": "سوبر-ماركت",
+        "href": "https://yellowpages.com.eg/ar/category/سوبر-ماركت"
+      },
+      {
+        "name": "وزارة-التأمينات-والشئون-الاجتماعية-_-الادارة-المركزية-للرعاية-الاجتماعية",
+        "href": "https://yellowpages.com.eg/ar/category/وزارة-التأمينات-والشئون-الاجتماعية-_-الادارة-المركزية-للرعاية-الاجتماعية"
+      },
+      {
+        "name": "مكاتب-تموين",
+        "href": "https://yellowpages.com.eg/ar/category/مكاتب-تموين"
+      },
+      {
+        "name": "معدات-سوبر-ماركت",
+        "href": "https://yellowpages.com.eg/ar/category/معدات-سوبر-ماركت"
+      },
+      {
+        "name": "مساحة-ومعدات-مساحة",
+        "href": "https://yellowpages.com.eg/ar/category/مساحة-ومعدات-مساحة"
+      },
+      {
+        "name": "سوشى",
+        "href": "https://yellowpages.com.eg/ar/category/سوشى"
+      },
+      {
+        "name": "معدات-كوافير",
+        "href": "https://yellowpages.com.eg/ar/category/معدات-كوافير"
+      },
+      {
+        "name": "حمامات-سباحة-انشاء-وكيماويات-تطهير",
+        "href": "https://yellowpages.com.eg/ar/category/حمامات-سباحة-انشاء-وكيماويات-تطهير"
+      },
+      {
+        "name": "مطاعم-سويسرية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-سويسرية"
+      }
+    ],
+    "pageId": "3ed71f78fb51b869f7240237a53630c86ba13ab0",
+    "pageUrl": "https://yellowpages.com.eg/ar/related-categories/p18",
+    "pagesCount": "35",
+    "numPagesToScrape": "35"
+  },
+  {
+    "ID": 19,
+    "pageCategories": [
+      {
+        "name": "مطاعم-سورية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-سورية"
+      },
+      {
+        "name": "خياطون",
+        "href": "https://yellowpages.com.eg/ar/category/خياطون"
+      },
+      {
+        "name": "خزانات",
+        "href": "https://yellowpages.com.eg/ar/category/خزانات"
+      },
+      {
+        "name": "تاكسى",
+        "href": "https://yellowpages.com.eg/ar/category/تاكسى"
+      },
+      {
+        "name": "شاى-وبن",
+        "href": "https://yellowpages.com.eg/ar/category/شاى-وبن"
+      },
+      {
+        "name": "اتصالات-ومعدات-اتصال-وخدمات",
+        "href": "https://yellowpages.com.eg/ar/category/اتصالات-ومعدات-اتصال-وخدمات"
+      },
+      {
+        "name": "تليفزيون-دوائر-مغلقة",
+        "href": "https://yellowpages.com.eg/ar/category/تليفزيون-دوائر-مغلقة"
+      },
+      {
+        "name": "خيام-وتند-ومظلات",
+        "href": "https://yellowpages.com.eg/ar/category/خيام-وتند-ومظلات"
+      },
+      {
+        "name": "منسوجات",
+        "href": "https://yellowpages.com.eg/ar/category/منسوجات"
+      },
+      {
+        "name": "مطاعم-تايلاندية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-تايلاندية"
+      },
+      {
+        "name": "بطاريات",
+        "href": "https://yellowpages.com.eg/ar/category/بطاريات"
+      },
+      {
+        "name": "معدات-مسارح-ولوازم",
+        "href": "https://yellowpages.com.eg/ar/category/معدات-مسارح-ولوازم"
+      },
+      {
+        "name": "بلاط",
+        "href": "https://yellowpages.com.eg/ar/category/بلاط"
+      },
+      {
+        "name": "اطارات",
+        "href": "https://yellowpages.com.eg/ar/category/اطارات"
+      },
+      {
+        "name": "تبغ",
+        "href": "https://yellowpages.com.eg/ar/category/تبغ"
+      },
+      {
+        "name": "عدد-وادوات",
+        "href": "https://yellowpages.com.eg/ar/category/عدد-وادوات"
+      },
+      {
+        "name": "تنمية-سياحية",
+        "href": "https://yellowpages.com.eg/ar/category/تنمية-سياحية"
+      },
+      {
+        "name": "اوناش-انقاذ",
+        "href": "https://yellowpages.com.eg/ar/category/اوناش-انقاذ"
+      },
+      {
+        "name": "لعب",
+        "href": "https://yellowpages.com.eg/ar/category/لعب"
+      },
+      {
+        "name": "استشاريون-مرور",
+        "href": "https://yellowpages.com.eg/ar/category/استشاريون-مرور"
+      }
+    ],
+    "pageId": "31f5e33326ba5804e34fbd5827351639acb04a3a",
+    "pageUrl": "https://yellowpages.com.eg/ar/related-categories/p19",
+    "pagesCount": "35",
+    "numPagesToScrape": "35"
+  },
+  {
+    "ID": 20,
+    "pageCategories": [
+      {
+        "name": "ترجمة",
+        "href": "https://yellowpages.com.eg/ar/category/ترجمة"
+      },
+      {
+        "name": "وكالات-سياحة",
+        "href": "https://yellowpages.com.eg/ar/category/وكالات-سياحة"
+      },
+      {
+        "name": "جوائز-ولوحات-واوسمة",
+        "href": "https://yellowpages.com.eg/ar/category/جوائز-ولوحات-واوسمة"
+      },
+      {
+        "name": "مطاعم-اسبانية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-اسبانية"
+      },
+      {
+        "name": "ستيك",
+        "href": "https://yellowpages.com.eg/ar/category/ستيك"
+      },
+      {
+        "name": "مطاعم-سودانية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-سودانية"
+      },
+      {
+        "name": "شاحنات-واتوبيسات",
+        "href": "https://yellowpages.com.eg/ar/category/شاحنات-واتوبيسات"
+      },
+      {
+        "name": "حمام-تركى",
+        "href": "https://yellowpages.com.eg/ar/category/حمام-تركى"
+      },
+      {
+        "name": "مطاعم-تركية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-تركية"
+      },
+      {
+        "name": "وكالات-اعلان",
+        "href": "https://yellowpages.com.eg/ar/category/وكالات-اعلان"
+      },
+      {
+        "name": "رولمان-بلى",
+        "href": "https://yellowpages.com.eg/ar/category/رولمان-بلى"
+      },
+      {
+        "name": "يونيفورم",
+        "href": "https://yellowpages.com.eg/ar/category/يونيفورم"
+      },
+      {
+        "name": "طاقة-تجهيز-منتظم",
+        "href": "https://yellowpages.com.eg/ar/category/طاقة-تجهيز-منتظم"
+      },
+      {
+        "name": "جامعات-وكليات-ومعاهد",
+        "href": "https://yellowpages.com.eg/ar/category/جامعات-وكليات-ومعاهد"
+      },
+      {
+        "name": "شواطىء",
+        "href": "https://yellowpages.com.eg/ar/category/شواطىء"
+      },
+      {
+        "name": "منجدون",
+        "href": "https://yellowpages.com.eg/ar/category/منجدون"
+      },
+      {
+        "name": "صمامات-ومحابس",
+        "href": "https://yellowpages.com.eg/ar/category/صمامات-ومحابس"
+      },
+      {
+        "name": "ماكينات-البيع-الذاتى",
+        "href": "https://yellowpages.com.eg/ar/category/ماكينات-البيع-الذاتى"
+      },
+      {
+        "name": "ابراج-تبريد-وتهوية",
+        "href": "https://yellowpages.com.eg/ar/category/ابراج-تبريد-وتهوية"
+      },
+      {
+        "name": "طب-بيطرى",
+        "href": "https://yellowpages.com.eg/ar/category/طب-بيطرى"
+      }
+    ],
+    "pageId": "05985bd93b83a208dc26779d5b1ec21656a4c6c6",
+    "pageUrl": "https://yellowpages.com.eg/ar/related-categories/p20",
+    "pagesCount": "35",
+    "numPagesToScrape": "35"
+  },
+  {
+    "ID": 21,
+    "pageCategories": [
+      {
+        "name": "سى-دى,-دى-فى-دى,-بلاى-ستيشن,-اكس-بوكس-والعاب-كمبيوتر",
+        "href": "https://yellowpages.com.eg/ar/category/سى-دى,-دى-فى-دى,-بلاى-ستيشن,-اكس-بوكس-والعاب-كمبيوتر"
+      },
+      {
+        "name": "مراكز-تجميل",
+        "href": "https://yellowpages.com.eg/ar/category/مراكز-تجميل"
+      },
+      {
+        "name": "ادارة-مخلفات-وخدمات-اعادة-تصنيع",
+        "href": "https://yellowpages.com.eg/ar/category/ادارة-مخلفات-وخدمات-اعادة-تصنيع"
+      },
+      {
+        "name": "ساعات-ومنبهات",
+        "href": "https://yellowpages.com.eg/ar/category/ساعات-ومنبهات"
+      },
+      {
+        "name": "مياه-معبئة-(معدنية)",
+        "href": "https://yellowpages.com.eg/ar/category/مياه-معبئة-(معدنية)"
+      },
+      {
+        "name": "رياضة-مائية",
+        "href": "https://yellowpages.com.eg/ar/category/رياضة-مائية"
+      },
+      {
+        "name": "ملاهي-مائية",
+        "href": "https://yellowpages.com.eg/ar/category/ملاهي-مائية"
+      },
+      {
+        "name": "مفروشات",
+        "href": "https://yellowpages.com.eg/ar/category/مفروشات"
+      },
+      {
+        "name": "معالجة-مياه",
+        "href": "https://yellowpages.com.eg/ar/category/معالجة-مياه"
+      },
+      {
+        "name": "عزل-تسرب-المياه-والحرارة-والحريق",
+        "href": "https://yellowpages.com.eg/ar/category/عزل-تسرب-المياه-والحرارة-والحريق"
+      },
+      {
+        "name": "ملابس-زفاف-و-سواريه",
+        "href": "https://yellowpages.com.eg/ar/category/ملابس-زفاف-و-سواريه"
+      },
+      {
+        "name": "مراكز-التخسيس-والتغذية",
+        "href": "https://yellowpages.com.eg/ar/category/مراكز-التخسيس-والتغذية"
+      },
+      {
+        "name": "لحام",
+        "href": "https://yellowpages.com.eg/ar/category/لحام"
+      },
+      {
+        "name": "اكسسوارات-حريمى",
+        "href": "https://yellowpages.com.eg/ar/category/اكسسوارات-حريمى"
+      },
+      {
+        "name": "ملابس-عمل-وامان",
+        "href": "https://yellowpages.com.eg/ar/category/ملابس-عمل-وامان"
+      },
+      {
+        "name": "عسل-النحل-ومناحل-ولوازم",
+        "href": "https://yellowpages.com.eg/ar/category/عسل-النحل-ومناحل-ولوازم"
+      },
+      {
+        "name": "زنك",
+        "href": "https://yellowpages.com.eg/ar/category/زنك"
+      },
+      {
+        "name": "سوست",
+        "href": "https://yellowpages.com.eg/ar/category/سوست"
+      },
+      {
+        "name": "مطاعم-بلجيكية",
+        "href": "https://yellowpages.com.eg/ar/category/مطاعم-بلجيكية"
+      },
+      {
+        "name": "حدائق-حيوانات",
+        "href": "https://yellowpages.com.eg/ar/category/حدائق-حيوانات"
+      }
+    ],
+    "pageId": "c11076c7080e572968f3cfbcf66383a85e2dc889",
+    "pageUrl": "https://yellowpages.com.eg/ar/related-categories/p21",
+    "pagesCount": "35",
+    "numPagesToScrape": "35"
+  },
+  {
+    "ID": 22,
+    "pageCategories": [
+      {
+        "name": "مصنعون-مشروبات",
+        "href": "https://yellowpages.com.eg/ar/category/مصنعون-مشروبات"
+      },
+      {
+        "name": "دراجات",
+        "href": "https://yellowpages.com.eg/ar/category/دراجات"
+      },
+      {
+        "name": "معدات-بلياردو",
+        "href": "https://yellowpages.com.eg/ar/category/معدات-بلياردو"
+      },
+      {
+        "name": "صالات-بلياردو",
+        "href": "https://yellowpages.com.eg/ar/category/صالات-بلياردو"
+      },
+      {
+        "name": "ستاد-ومدرجات--وصالات-مكشوفة",
+        "href": "https://yellowpages.com.eg/ar/category/ستاد-ومدرجات--وصالات-مكشوفة"
+      },
+      {
+        "name": "ستائر-وشيش",
+        "href": "https://yellowpages.com.eg/ar/category/ستائر-وشيش"
+      },
+      {
+        "name": "ادوات-وخدمات-خرائط-هندسية",
+        "href": "https://yellowpages.com.eg/ar/category/ادوات-وخدمات-خرائط-هندسية"
+      },
+      {
+        "name": "غلايات-ومحارق-وسخانات",
+        "href": "https://yellowpages.com.eg/ar/category/غلايات-ومحارق-وسخانات"
+      },
+      {
+        "name": "مسامير-قلاووظ-وصواميل-ومسامير-وبنط",
+        "href": "https://yellowpages.com.eg/ar/category/مسامير-قلاووظ-وصواميل-ومسامير-وبنط"
+      },
+      {
+        "name": "كتب",
+        "href": "https://yellowpages.com.eg/ar/category/كتب"
+      },
+      {
+        "name": "صالات-بولينج-ومعدات",
+        "href": "https://yellowpages.com.eg/ar/category/صالات-بولينج-ومعدات"
+      },
+      {
+        "name": "ماكينات-ومستلزمات-اعلان",
+        "href": "https://yellowpages.com.eg/ar/category/ماكينات-ومستلزمات-اعلان"
+      },
+      {
+        "name": "محطات-اذاعة-وتليفزيون",
+        "href": "https://yellowpages.com.eg/ar/category/محطات-اذاعة-وتليفزيون"
+      },
+      {
+        "name": "معدات-بناء",
+        "href": "https://yellowpages.com.eg/ar/category/معدات-بناء"
+      },
+      {
+        "name": "مواد-بناء",
+        "href": "https://yellowpages.com.eg/ar/category/مواد-بناء"
+      },
+      {
+        "name": "مبانى-سابقة-التجهيز-وتركيبات",
+        "href": "https://yellowpages.com.eg/ar/category/مبانى-سابقة-التجهيز-وتركيبات"
+      },
+      {
+        "name": "اتوبيسات-شارتر-ومحطات",
+        "href": "https://yellowpages.com.eg/ar/category/اتوبيسات-شارتر-ومحطات"
+      },
+      {
+        "name": "مراكز-تصوير-مستندات-وخدمة-رجال-الاعمال",
+        "href": "https://yellowpages.com.eg/ar/category/مراكز-تصوير-مستندات-وخدمة-رجال-الاعمال"
+      },
+      {
+        "name": "اكسسوارات-ملابس",
+        "href": "https://yellowpages.com.eg/ar/category/اكسسوارات-ملابس"
+      },
+      {
+        "name": "كابلات-واسلاك",
+        "href": "https://yellowpages.com.eg/ar/category/كابلات-واسلاك"
+      }
+    ],
+    "pageId": "138245013d9f124508276a7f93f2d049e3aef346",
+    "pageUrl": "https://yellowpages.com.eg/ar/related-categories/p22",
+    "pagesCount": "35",
+    "numPagesToScrape": "35"
+  }
+]
