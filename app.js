@@ -10,12 +10,12 @@ const main = async () => {
     await ScraperCategories();
     // ******** Scrape companies URLs for each category ******** //
     // For each category, scrape the URLs of all the companies in that category. This will give us a list of company URLs to scrape company details from.
-    // const categories_urls = await getCategories();
-    // await ScraperCategory(categories_urls.slice(0, 1));
+    const categories_urls = await getCategories();
+    await ScraperCategory(categories_urls);
     //  ********** Scrape all details of each company for each category *********** //
     // For each company URL, scrape all the details of the company, such as company name, address, phone number, website, and email address.
-    // const companies_urls = await getCompaniesUrls();
-    // await ScraperCompany(companies_urls.slice(6, 8));
+    const companies_urls = await getCompaniesUrls();
+    await ScraperCompany(companies_urls);
   } catch (err) {
     console.log({ "error message": err.message });
   }
